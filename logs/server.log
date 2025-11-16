@@ -1,15 +1,15 @@
 INFO:     Will watch for changes in these directories: ['/home/workspace']
 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
-INFO:     Started reloader process [152] using StatReload
-INFO:     Started server process [154]
+INFO:     Started reloader process [199] using StatReload
+INFO:     Started server process [201]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
-INFO:     172.20.0.1:53016 - "HEAD / HTTP/1.1" 405 Method Not Allowed
-INFO:     172.20.0.1:53018 - "GET /api/social-proof HTTP/1.1" 200 OK
-INFO:     172.20.0.1:53018 - "GET /api/social-proof HTTP/1.1" 200 OK
-INFO:     172.20.0.1:53020 - "GET /api/metrics/issues-fixed-today HTTP/1.1" 200 OK
-INFO:     172.20.0.1:53018 - "GET /api/metrics/issues-fixed-today HTTP/1.1" 200 OK
-INFO:     172.20.0.1:53032 - "GET /api/metrics/issues-fixed-today HTTP/1.1" 200 OK
-INFO:     172.20.0.1:53032 - "GET /api/social-proof HTTP/1.1" 200 OK
-INFO:     172.20.0.1:51988 - "GET /api/metrics/issues-fixed-today HTTP/1.1" 200 OK
-INFO:     172.20.0.1:53032 - "GET /api/social-proof HTTP/1.1" 200 OK
+INFO:     172.20.0.1:53638 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:53664 - "GET /api/social-proof HTTP/1.1" 200 OK
+INFO:     172.20.0.1:53664 - "GET /api/social-proof HTTP/1.1" 200 OK
+INFO:     172.20.0.1:53648 - "GET /api/metrics/issues-fixed-today HTTP/1.1" 200 OK
+INFO:     172.20.0.1:53648 - "GET /api/metrics/issues-fixed-today HTTP/1.1" 200 OK
+INFO:     172.20.0.1:53664 - "GET /api/social-proof HTTP/1.1" 200 OK
+INFO:     172.20.0.1:53648 - "GET /api/metrics/issues-fixed-today HTTP/1.1" 200 OK
+INFO:     172.20.0.1:53668 - "GET /api/social-proof HTTP/1.1" 200 OK
+INFO:     172.20.0.1:53648 - "GET /api/metrics/issues-fixed-today HTTP/1.1" 200 OK
